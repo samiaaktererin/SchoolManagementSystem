@@ -1,0 +1,1256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\teachers\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\teachers\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\models\\teacherdashboardrowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:models\\teacherdashboardrowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\teachers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\teachers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\academic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\academic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\controllers\\academiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:controllers\\academiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\models\\parentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:models\\parentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\models\\teachersubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:models\\teachersubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\students\\byclass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\students\\byclass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\academic\\editassign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\academic\\editassign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\home\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\home\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\teachers\\attendancelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\teachers\\attendancelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\teachers\\addmissedattendance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\teachers\\addmissedattendance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\teachers\\editattendance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\teachers\\editattendance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\teachers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\teachers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\teachers\\attendance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\teachers\\attendance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\teachers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\teachers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\home\\teacherhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\home\\teacherhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\home\\adminhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\home\\adminhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\academic\\assignedlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\academic\\assignedlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\academic\\assign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\academic\\assign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\teachers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\teachers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\academic\\assignments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\academic\\assignments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\academic\\createsubject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\academic\\createsubject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\academic\\subjects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\academic\\subjects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\teachers\\salary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\teachers\\salary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\models\\teachersalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:models\\teachersalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\models\\teacherattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:models\\teacherattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\teachers\\assignsubjects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\teachers\\assignsubjects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\models\\enrollmenthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:models\\enrollmenthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\migrations\\20251205121907_addstudentroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:migrations\\20251205121907_addstudentroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\migrations\\20251205111035_seedsectionsatod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:migrations\\20251205111035_seedsectionsatod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\migrations\\20251204163703_addclasssectiondefault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:migrations\\20251204163703_addclasssectiondefault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\migrations\\20251204155210_addstudentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:migrations\\20251204155210_addstudentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\migrations\\20251204153604_initialcreatemysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:migrations\\20251204153604_initialcreatemysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\migrations\\20251204153543_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:migrations\\20251204153543_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\mymvcapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:mymvcapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|c:\\users\\hp\\source\\repos\\mymvcapp\\wwwroot\\images\\default-user.png||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D76827D5-89F6-81A6-8EF5-0164960752AD}|MyMvcApp.csproj|solutionrelative:wwwroot\\images\\default-user.png||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeacherDashboardRowVM.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\TeacherDashboardRowVM.cs",
+              "RelativeDocumentMoniker": "Models\\TeacherDashboardRowVM.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\TeacherDashboardRowVM.cs",
+              "RelativeToolTip": "Models\\TeacherDashboardRowVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:47:03.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Teachers\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teachers\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Teachers\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Teachers\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T15:30:00.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-04T15:17:32.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAADwv5QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:18:09.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "Controllers\\TeachersController.cs",
+              "ViewState": "AgIAAAIDAAAAAAAAAAAwwCEDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:25:19.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:45:56.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAC4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T16:13:11.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Teachers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teachers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Teachers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Teachers\\Index.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T14:26:34.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AcademicController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Controllers\\AcademicController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AcademicController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Controllers\\AcademicController.cs",
+              "RelativeToolTip": "Controllers\\AcademicController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T17:45:22.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Academic\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Academic\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Academic\\Index.cshtml",
+              "RelativeToolTip": "Views\\Academic\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAACdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T08:01:11.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ParentInfo.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\ParentInfo.cs",
+              "RelativeDocumentMoniker": "Models\\ParentInfo.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\ParentInfo.cs",
+              "RelativeToolTip": "Models\\ParentInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:43:33.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TeacherSubject.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\TeacherSubject.cs",
+              "RelativeDocumentMoniker": "Models\\TeacherSubject.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\TeacherSubject.cs",
+              "RelativeToolTip": "Models\\TeacherSubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:21:58.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T12:58:35.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\students\\Edit.cshtml",
+              "RelativeToolTip": "Views\\students\\Edit.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAE8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T15:56:14.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\Subject.cs",
+              "RelativeToolTip": "Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:21:27.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\students\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\students\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\students\\Delete.cshtml",
+              "RelativeToolTip": "Views\\students\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T15:58:04.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ByClass.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\students\\ByClass.cshtml",
+              "RelativeDocumentMoniker": "Views\\students\\ByClass.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\students\\ByClass.cshtml",
+              "RelativeToolTip": "Views\\students\\ByClass.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAALwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-05T11:59:42.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditAssign.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Academic\\EditAssign.cshtml",
+              "RelativeDocumentMoniker": "Views\\Academic\\EditAssign.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Academic\\EditAssign.cshtml",
+              "RelativeToolTip": "Views\\Academic\\EditAssign.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAiwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T21:23:43.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\students\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\students\\Create.cshtml",
+              "RelativeToolTip": "Views\\students\\Create.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T15:55:52.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:44:29.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Section.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\Section.cs",
+              "RelativeDocumentMoniker": "Models\\Section.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\Section.cs",
+              "RelativeToolTip": "Models\\Section.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:43:06.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\students\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\students\\Index.cshtml",
+              "RelativeToolTip": "Views\\students\\Index.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T15:55:13.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\students\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\students\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\students\\Details.cshtml",
+              "RelativeToolTip": "Views\\students\\Details.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T15:57:26.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T17:36:27.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T17:09:12.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-26T19:31:11.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T17:07:36.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T11:21:51.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T12:57:54.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-07T13:09:23.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ViewState": "AgIAAFYGAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-03T06:43:21.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "bootstrap-reboot.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-03T06:43:17.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-03T06:43:15.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAwwFUBAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:54:01.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-07T12:58:10.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-07T12:57:11.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AdminDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Home\\AdminDashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\AdminDashboard.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Home\\AdminDashboard.cshtml",
+              "RelativeToolTip": "Views\\Home\\AdminDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T16:57:50.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-07T13:05:04.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAwwKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T18:25:22.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AttendanceList.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Teachers\\AttendanceList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teachers\\AttendanceList.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Teachers\\AttendanceList.cshtml",
+              "RelativeToolTip": "Views\\Teachers\\AttendanceList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-27T05:36:39.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EditAttendance.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Teachers\\EditAttendance.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teachers\\EditAttendance.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Teachers\\EditAttendance.cshtml",
+              "RelativeToolTip": "Views\\Teachers\\EditAttendance.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T16:49:16.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AddMissedAttendance.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Teachers\\AddMissedAttendance.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teachers\\AddMissedAttendance.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Teachers\\AddMissedAttendance.cshtml",
+              "RelativeToolTip": "Views\\Teachers\\AddMissedAttendance.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T17:52:32.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Attendance.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Teachers\\Attendance.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teachers\\Attendance.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Teachers\\Attendance.cshtml",
+              "RelativeToolTip": "Views\\Teachers\\Attendance.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T14:29:37.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Teachers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teachers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Teachers\\Details.cshtml",
+              "RelativeToolTip": "Views\\Teachers\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T14:28:39.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Teachers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teachers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Teachers\\Create.cshtml",
+              "RelativeToolTip": "Views\\Teachers\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T14:27:28.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "TeacherHome.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Home\\TeacherHome.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\TeacherHome.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Home\\TeacherHome.cshtml",
+              "RelativeToolTip": "Views\\Home\\TeacherHome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T16:07:33.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AdminHome.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Home\\AdminHome.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\AdminHome.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Home\\AdminHome.cshtml",
+              "RelativeToolTip": "Views\\Home\\AdminHome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T16:06:53.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AssignedList.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Academic\\AssignedList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Academic\\AssignedList.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Academic\\AssignedList.cshtml",
+              "RelativeToolTip": "Views\\Academic\\AssignedList.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T20:08:03.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T13:03:29.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-07T13:05:38.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Assign.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Academic\\Assign.cshtml",
+              "RelativeDocumentMoniker": "Views\\Academic\\Assign.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Academic\\Assign.cshtml",
+              "RelativeToolTip": "Views\\Academic\\Assign.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T17:48:25.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Teachers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teachers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Teachers\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Teachers\\Edit.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T14:28:13.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Assignments.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Academic\\Assignments.cshtml",
+              "RelativeDocumentMoniker": "Views\\Academic\\Assignments.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Academic\\Assignments.cshtml",
+              "RelativeToolTip": "Views\\Academic\\Assignments.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T20:02:16.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CreateSubject.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Academic\\CreateSubject.cshtml",
+              "RelativeDocumentMoniker": "Views\\Academic\\CreateSubject.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Academic\\CreateSubject.cshtml",
+              "RelativeToolTip": "Views\\Academic\\CreateSubject.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T18:45:45.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\Classroom.cs",
+              "RelativeDocumentMoniker": "Models\\Classroom.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\Classroom.cs",
+              "RelativeToolTip": "Models\\Classroom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:42:38.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Subjects.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Academic\\Subjects.cshtml",
+              "RelativeDocumentMoniker": "Views\\Academic\\Subjects.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Academic\\Subjects.cshtml",
+              "RelativeToolTip": "Views\\Academic\\Subjects.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T17:47:52.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-07T13:05:37.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Salary.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Teachers\\Salary.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teachers\\Salary.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Teachers\\Salary.cshtml",
+              "RelativeToolTip": "Views\\Teachers\\Salary.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T14:30:04.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:19:56.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "TeacherSalary.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\TeacherSalary.cs",
+              "RelativeDocumentMoniker": "Models\\TeacherSalary.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\TeacherSalary.cs",
+              "RelativeToolTip": "Models\\TeacherSalary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:22:59.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "TeacherAttendance.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\TeacherAttendance.cs",
+              "RelativeDocumentMoniker": "Models\\TeacherAttendance.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\TeacherAttendance.cs",
+              "RelativeToolTip": "Models\\TeacherAttendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:22:28.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T13:03:03.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AssignSubjects.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Teachers\\AssignSubjects.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teachers\\AssignSubjects.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\Teachers\\AssignSubjects.cshtml",
+              "RelativeToolTip": "Views\\Teachers\\AssignSubjects.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T14:29:08.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-07T13:08:39.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-07T13:04:37.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAP4BAAAAAAAAAAAwwB0CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:44:55.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20251205121907_AddStudentRoll.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Migrations\\20251205121907_AddStudentRoll.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251205121907_AddStudentRoll.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Migrations\\20251205121907_AddStudentRoll.cs",
+              "RelativeToolTip": "Migrations\\20251205121907_AddStudentRoll.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T13:01:06.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "EnrollmentHistory.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\EnrollmentHistory.cs",
+              "RelativeDocumentMoniker": "Models\\EnrollmentHistory.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Models\\EnrollmentHistory.cs",
+              "RelativeToolTip": "Models\\EnrollmentHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:44:10.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20251205111035_SeedSectionsAtoD.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Migrations\\20251205111035_SeedSectionsAtoD.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251205111035_SeedSectionsAtoD.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Migrations\\20251205111035_SeedSectionsAtoD.cs",
+              "RelativeToolTip": "Migrations\\20251205111035_SeedSectionsAtoD.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAwwPMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T13:00:43.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20251204163703_AddClassSectionDefault.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Migrations\\20251204163703_AddClassSectionDefault.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251204163703_AddClassSectionDefault.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Migrations\\20251204163703_AddClassSectionDefault.cs",
+              "RelativeToolTip": "Migrations\\20251204163703_AddClassSectionDefault.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAwwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T13:00:18.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20251204155210_AddStudentManagement.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Migrations\\20251204155210_AddStudentManagement.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251204155210_AddStudentManagement.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Migrations\\20251204155210_AddStudentManagement.cs",
+              "RelativeToolTip": "Migrations\\20251204155210_AddStudentManagement.cs",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAwwCkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T12:59:49.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20251204153604_InitialCreateMySql.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Migrations\\20251204153604_InitialCreateMySql.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251204153604_InitialCreateMySql.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Migrations\\20251204153604_InitialCreateMySql.cs",
+              "RelativeToolTip": "Migrations\\20251204153604_InitialCreateMySql.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T12:59:31.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20251204153543_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Migrations\\20251204153543_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251204153543_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Migrations\\20251204153543_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20251204153543_InitialCreate.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T12:59:06.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "favicon.ico -  [English (United Kingdom)] - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\wwwroot\\favicon.ico -  [English (United Kingdom)] - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "wwwroot\\favicon.ico -  [English (United Kingdom)] - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-12-07T12:58:14.832Z",
+              "EditorCaption": " -  [English (United Kingdom)] - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-05T08:08:29.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "MyMvcApp",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\MyMvcApp.csproj",
+              "RelativeDocumentMoniker": "MyMvcApp.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\MyMvcApp.csproj",
+              "RelativeToolTip": "MyMvcApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-05T08:08:24.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "default-user.png",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\wwwroot\\images\\default-user.png",
+              "RelativeDocumentMoniker": "wwwroot\\images\\default-user.png",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyMvcApp\\wwwroot\\images\\default-user.png",
+              "RelativeToolTip": "wwwroot\\images\\default-user.png",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-04T16:12:44.192Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
